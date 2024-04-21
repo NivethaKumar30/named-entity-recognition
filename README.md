@@ -176,9 +176,18 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![Screenshot 2024-04-22 011728](https://github.com/NivethaKumar30/named-entity-recognition/assets/119559844/4bbb6e7c-83dc-4b44-9d7b-7faafd73b666)
+
+
+![Screenshot 2024-04-22 011734](https://github.com/NivethaKumar30/named-entity-recognition/assets/119559844/8808d3e5-0a80-43b6-90fc-9d049f1cea1a)
+
+
+![Screenshot 2024-04-22 011752](https://github.com/NivethaKumar30/named-entity-recognition/assets/119559844/e950165e-6977-449a-b172-961d3d5e2107)
+
 
 ### Sample Text Prediction
-Include your sample text prediction here.
+
 
 ## RESULT
+
+Thus an LSTM-based model for recognizing the named entities in the text is developed .
