@@ -33,9 +33,6 @@ FACILITY
 
 GPE (Geo-Political Entity)
 
-## Neural Network Model
-
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
