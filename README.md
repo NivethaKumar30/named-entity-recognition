@@ -66,7 +66,8 @@ data.head(50)
 
 data = data.fillna(method="ffill")
 data.head(50)
-
+```
+```
 print("Unique words in corpus:", data['Word'].nunique())
 print("Unique tags in corpus:", data['Tag'].nunique())
 
