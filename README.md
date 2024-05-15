@@ -78,7 +78,8 @@ print("Unique tags are:", tags)
 num_words = len(words)
 num_tags = len(tags)
 num_words
-
+```
+```
 class SentenceGetter(object):
     def __init__(self, data):
         self.n_sent = 1
@@ -97,8 +98,7 @@ class SentenceGetter(object):
             return s
         except:
             return None
-```
-```
+
 getter = SentenceGetter(data)
 sentences = getter.sentences
 len(sentences)
